@@ -84,4 +84,6 @@ public:
 	//std::string Student::CalculateClassification();
 	
 	static int GetEnrolled();
+
+
 };
